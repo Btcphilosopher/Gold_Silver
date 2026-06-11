@@ -1,0 +1,6 @@
+{
+  "name": "AURUM",
+  "description": "Secure, premium physical gold, silver, and platinum wealth dashboard, holding tracker, secure vaults, auto-invest strategies, and AI wealth assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
